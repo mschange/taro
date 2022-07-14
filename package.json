@@ -36,6 +36,7 @@
   ],
   "author": "",
   "dependencies": {
+    "@ahooksjs/use-request": "^2.8.15",
     "@babel/runtime": "^7.7.7",
     "@tarojs/components": "3.4.10",
     "@tarojs/runtime": "3.4.10",
